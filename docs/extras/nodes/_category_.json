@@ -1,0 +1,8 @@
+{
+  "label": "流程树节点",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "介绍事件流程树的各个节点"
+  }
+}
