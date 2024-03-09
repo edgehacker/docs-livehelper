@@ -8,36 +8,37 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            查看使用说明书
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
+    const { siteConfig } = useDocusaurusContext();
+    return (
+        <header className={clsx('hero hero--primary', styles.heroBanner)}>
+            <div className="container">
+                <img className={styles.logo} src={require('@site/static/img/logo.png').default} alt="" />
+                <Heading as="h1" className={styles.header}>
+                    {siteConfig.title}
+                </Heading>
+                <p className={styles.tip}>{siteConfig.tagline}</p>
+                <div className={styles.buttonBox}>
+                    <Link
+                        className={styles.enterButton}
+                        to="/docs/quick_start">
+                        查看使用说明书
+                    </Link>
+                </div>
+            </div>
+        </header>
+    );
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
-    </Layout>
-  );
+    const { siteConfig } = useDocusaurusContext();
+    return (
+        <Layout
+            title={'软件文档'}
+            description="Description will go into a meta tag in <head />">
+            <HomepageHeader  />
+            <main>
+                <HomepageFeatures />
+            </main>
+        </Layout>
+    );
 }

@@ -1,23 +1,49 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+    min-height: 475px;
+    height: calc(100vh - 60px);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.logo {
+    width: 175px;
+    height: 175px;
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+@font-face {
+    font-family: "Bold";
+    font-weight: 700;
+    src: url("//at.alicdn.com/wf/webfont/FT27mp9nzRgi/Wgn1VgBHqkiE.woff2") format("woff2"),
+        url("//at.alicdn.com/wf/webfont/FT27mp9nzRgi/iHhVUZJCDYtg.woff") format("woff");
+    font-display: swap;
+}
+
+.header {
+    font-family: "Bold";
+    font-size: 50px;
+    margin-top: 35px;
+}
+
+.tip {
+    margin-bottom: 35px;
+}
+
+.buttonBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.enterButton {
+    padding: 0 25px;
+    height: 50px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 25px;
+    font-family: "阿里妈妈数黑体 Bold";
 }
