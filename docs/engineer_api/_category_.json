@@ -1,0 +1,8 @@
+{
+  "label": "开发者接口",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "直播互动助手提供了部分本地开放 API 接口，供开发者或使用者调用，实现二次开发效果。"
+  }
+}

@@ -21,7 +21,12 @@ function HomepageHeader() {
                     <Link
                         className={styles.enterButton}
                         to="/docs/quick_start">
-                        查看使用说明书
+                        帮助文档
+                    </Link>
+                    <Link
+                        className={styles.enterButton}
+                        href="https://www.bilibili.com/video/BV1Bq421A7Ju/">
+                        视频教程
                     </Link>
                 </div>
             </div>
@@ -33,8 +38,8 @@ export default function Home(): JSX.Element {
     const { siteConfig } = useDocusaurusContext();
     return (
         <Layout
-            title={'软件文档'}
-            description="Description will go into a meta tag in <head />">
+            title={'帮助文档'}
+            description="边缘骇客直播互动助手">
             <HomepageHeader  />
             <main>
                 <HomepageFeatures />

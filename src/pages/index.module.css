@@ -38,12 +38,18 @@
 .enterButton {
     padding: 0 25px;
     height: 50px;
-    background-color: #FFFFFF;
+    background-color: #DCE6F9;
     display: flex;
     align-items: center;
     justify-content: center;
     text-decoration: none;
     font-size: 20px;
-    border-radius: 25px;
+    border-radius: 5px;
     font-family: "阿里妈妈数黑体 Bold";
+    margin: 0 15px;
+}
+
+.enterButton:hover {
+    text-decoration: none;
+    background-color: #FFFFFF;
 }

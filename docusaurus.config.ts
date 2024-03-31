@@ -56,9 +56,12 @@ const config: Config = {
                     type: 'docSidebar',
                     sidebarId: 'tutorialSidebar',
                     position: 'left',
-                    label: '软件使用说明书',
+                    label: '帮助文档',
                 },
+                { href: 'https://www.bilibili.com/video/BV1Bq421A7Ju/', label: '视频教程（新）', position: 'left' },
                 { to: '/blog', label: '边缘骇客博客', position: 'left' },
+                { href: 'https://livehelper.willwaking.com/', label: '官方网站', position: 'left' },
+                { href: 'https://txc.qq.com/products/511669', label: '反馈空间', position: 'left' },
                 {
                     href: 'https://github.com/edgehacker/live-helper',
                     label: 'GitHub',
@@ -73,8 +76,12 @@ const config: Config = {
                     title: '使用说明',
                     items: [
                         {
-                            label: '软件使用说明书',
+                            label: '帮助文档',
                             to: '/docs/quick_start',
+                        },
+                        {
+                            label: '视频教程（新）',
+                            href: 'https://www.bilibili.com/video/BV1Bq421A7Ju/',
                         },
                         {
                             label: '边缘骇客博客',
@@ -106,14 +113,22 @@ const config: Config = {
                             label: '边缘骇客编程实验室',
                             href: 'https://edgehacker.taobao.com/',
                         },
+                        {
+                            label: 'edgehacker@willwaking.com',
+                            href: 'https://mail.qq.com/'
+                        }
                     ],
                 },
                 {
                     title: '其他信息',
                     items: [
                         {
-                            label: '边缘骇客博客',
-                            to: '/blog',
+                            label: '边缘骇客直播互动助手官方网站',
+                            href: 'https://livehelper.willwaking.com/',
+                        },
+                        {
+                            label: '边缘骇客直播互动助手反馈空间',
+                            href: 'https://txc.qq.com/products/511669',
                         },
                         {
                             label: '秒数联盟数学派',
