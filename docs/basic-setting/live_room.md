@@ -5,20 +5,16 @@ sidebar_position: 1
 
 # 配置直播间
 
-边缘骇客直播互动助手当前兼容平台： 抖音视频 · BiliBili · 快手视频 · TikTok
-
-
-
-![平台兼容](./img/平台兼容.jpg)
-
 ## 直播间地址通配说明
 
 |平台名称|直播间地址通配|是否支持
 |-|-|:-:|
-|抖音视频|`https://live.douyin.com/直播间ID`|√|
+|抖音|`https://live.douyin.com/直播间ID`|√|
 |BiliBili|`http://live.bilibili.com/直播间ID`|√|
-|快手视频|`https://live.kuaishou.com/u/直播间ID`|√|
-|抖音国际版 TikTok|`https://live.tiktok.com/直播间ID`|√|
+|快手|`https://live.kuaishou.com/u/用户UID`|√|
+|抖音国际版 TikTok|`https://live.tiktok.com/用户UID`|√|
+|ACFun|`https://live.acfun.cn/live/用户UID`|√|
+|斗鱼|`https://www.douyu.com/直播间ID`|√|
 
 ## 配置直播间地址
 
