@@ -28,6 +28,16 @@ function HomepageHeader() {
                         href="https://www.bilibili.com/video/BV1Bq421A7Ju/">
                         视频教程
                     </Link>
+                    <Link
+                        className={styles.enterButton}
+                        to="/blog/simple_1">
+                        常见案例
+                    </Link>
+                    <Link
+                        className={styles.enterButton}
+                        href="https://item.taobao.com/item.htm?ft=t&id=786990767316">
+                        远程教学
+                    </Link>
                 </div>
             </div>
         </header>

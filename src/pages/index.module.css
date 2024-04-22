@@ -33,6 +33,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .enterButton {
@@ -45,8 +46,9 @@
     text-decoration: none;
     font-size: 20px;
     border-radius: 5px;
-    font-family: "阿里妈妈数黑体 Bold";
     margin: 0 15px;
+    margin-bottom: 30px;
+    flex-shrink: 0;
 }
 
 .enterButton:hover {

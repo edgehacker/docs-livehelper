@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2486658-4db0-4601-91f5-1be4e8f55b5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/blog/内测活动/2024-03-2-内测活动.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/内测活动/2024-03-2-内测活动.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/简单案例分析一/2024-04-22-简单案例分析：一.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/简单案例分析一/2024-04-22-简单案例分析：一.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/简单案例分析一/img/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/简单案例分析一/img/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/简单案例分析一/img/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/简单案例分析一/img/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/简单案例分析一/img/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/简单案例分析一/img/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/2024-04-22-高级案例分析：一.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/2024-04-22-高级案例分析：一.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/高级案例分析一/img/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/高级案例分析一/img/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs.livehelper.willwaking.com_deployment_dist_0.0.1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fSUGfxIJf7PW8YKeFZureRFdAu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2486658-4db0-4601-91f5-1be4e8f55b5b" name="Changes" comment="" />
+      <created>1713793880106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713793880106</updated>
+      <workItem from="1713793883005" duration="13000" />
+      <workItem from="1713793923025" duration="838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

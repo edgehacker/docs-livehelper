@@ -58,10 +58,16 @@ const config: Config = {
                     position: 'left',
                     label: '帮助文档',
                 },
-                { href: 'https://www.bilibili.com/video/BV1Bq421A7Ju/', label: '视频教程（新）', position: 'left' },
-                { to: '/blog', label: '边缘骇客博客', position: 'left' },
-                { href: 'https://livehelper.willwaking.com/', label: '官方网站', position: 'left' },
-                { href: 'https://txc.qq.com/products/511669', label: '反馈空间', position: 'left' },
+                { href: 'https://www.bilibili.com/video/BV1Bq421A7Ju/', label: '视频教程', position: 'left' },
+                { to: '/blog/simple_1', label: '常见案例', position: 'left' },
+                {
+                    href: 'https://item.taobao.com/item.htm?ft=t&id=786990767316',
+                    label: '远程教学',
+                    position: 'left',
+                },
+                { href: 'https://livehelper.willwaking.com/', label: '官网', position: 'left' },
+                { href: 'https://txc.qq.com/products/511669', label: '反馈', position: 'left' },
+
                 {
                     href: 'https://github.com/edgehacker/live-helper',
                     label: 'GitHub',
@@ -84,8 +90,8 @@ const config: Config = {
                             href: 'https://www.bilibili.com/video/BV1Bq421A7Ju/',
                         },
                         {
-                            label: '边缘骇客博客',
-                            to: '/blog',
+                            label: '常见案例（新）',
+                            to: '/blog/simple_1',
                         },
                     ],
                 },
@@ -99,7 +105,10 @@ const config: Config = {
                         {
                             label: '蓝奏云',
                             href: 'https://edgehacker.lanzn.com/s/livehelper',
-                        }
+                        },{
+                            label: '在线远程教学（付费）',
+                            href: 'https://item.taobao.com/item.htm?id=784426995389',
+                        },
                     ],
                 },
                 {
