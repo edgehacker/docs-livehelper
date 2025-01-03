@@ -1,41 +1,11 @@
-# Website
+# 边缘骇客直播互动助手帮助文档
+![image](https://github.com/user-attachments/assets/ca634e3a-44fb-488d-83f2-97f1dc86c558)
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+# 快速上手
+![image](https://github.com/user-attachments/assets/ff1bd8c6-f9ab-4d91-95d3-94182edc65ac)
+# 程序基础配置教程
+![image](https://github.com/user-attachments/assets/77e68473-7acd-4ae5-8878-39a2579b4213)
+# 事件流程树节点
+![image](https://github.com/user-attachments/assets/fcb6f91e-5c9f-48d7-98e8-09b997a46588)
+# 开发者接口
+![image](https://github.com/user-attachments/assets/7c335681-9f81-4b64-b069-85d40c9c8bda)
