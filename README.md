@@ -1,4 +1,9 @@
 # 边缘骇客直播互动助手帮助文档
+
+边缘骇客直播互动助手帮助文档网站包含快速上手、程序基础配置教程、事件流程树节点、开发者接口详细说明教程。
+
+链接地址：https://docs.livehelper.willwaking.com
+
 ![image](https://github.com/user-attachments/assets/ca634e3a-44fb-488d-83f2-97f1dc86c558)
 
 # 快速上手
